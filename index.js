@@ -16,6 +16,12 @@ const questions = [
     },
     {
         type: "input",
+        name: "usage",
+        message: "Please provide the usage for this project"
+
+    },
+    {
+        type: "input",
         name: "installation",
         message: "Please provide the installation instructions"
     },
@@ -36,8 +42,8 @@ const questions = [
     },
     {
         type: "input",
-        name: "email",
-        message: "Please enter your email address"
+        name: "contributing",
+        message: "Please provide any contributors to the project. If none please put yourself"
     },
 ];
 
