@@ -11,8 +11,6 @@ function generateMarkdown(data, githubInfo) {
   - [GitHub Info](#GitHub) 
   ## Installation
   ${data.installation}
-  ## Usage
-  ${data.usage}
   ## Licence
   ${data.licence}
   ## Repository
