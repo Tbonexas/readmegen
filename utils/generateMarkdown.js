@@ -19,7 +19,7 @@ function generateMarkdown(data, githubInfo) {
   ![Image of me](${githubInfo.githubImage})
   - ${githubInfo.name}
   - [GitHub Profile](${githubInfo.profile})
-  - <${githubInfo.email}>`;
+  - [My Email](${githubInfo.email})`;
   }
   
   module.exports = generateMarkdown;
