@@ -103,3 +103,4 @@ var writeResult = fs.writeFileSync(path.join(__dirname, '../readmegen', 'readMe.
 console.log("file generated....")
     
 main();
+// added to test // 
