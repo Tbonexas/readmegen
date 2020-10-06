@@ -1,7 +1,7 @@
 
   # **Good README File Generator**
   ## Description 
-  To generate a README file using Node.js via VSCode Terminal.
+  
   ## Table of contents
   - [Description](#Description)
   - [Installation](#Installation)
@@ -9,7 +9,7 @@
   - [Repository Link](#Repository)
   - [GitHub Information](#GitHub) 
   ## Installation
-  User must install axios and inquirer to obtain correct packages. Once installed user runs node index.js to begin the application.
+    To generate a README file using Node.js via VSCode Terminal.
   ## Licence
   MIT
   ## Repository
@@ -18,4 +18,4 @@
   ![Image of me](https://avatars0.githubusercontent.com/u/67118229?v=4)
   - Todd Murdoch
   - [GitHub Profile](https://github.com/Tbonexas)
-  - [My Email](null)
+  - [Contact Me](null)
