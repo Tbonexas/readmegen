@@ -1,24 +1,21 @@
 
-  # **Good ReadMe Generator**
+  # **Good README File  Generator**
   ## Description 
-  To generate a README file using node.js in the terminal.
+  To generate a README file using node.js in terminal.
   ## Table of contents
   - [Description](#Description)
   - [Installation](#Installation)
   - [Licence](#Licence)
   - [Repository Link](#Repository)
-  - [GitHub Info](#GitHub) 
+  - [GitHub Information](#GitHub) 
   ## Installation
-  1). npm install 2). npm install inquirer 3). npm install axios
-  ## Usage
-  undefined
+  User install required Axios and Inquirer packages. Once complete the user uses node index.js to run the questionaire.
   ## Licence
   MIT
   ## Repository
   - [Project Repo](https://tbonexas.github.io/readmegen)
-  ## GitHub
+  ## GitHub - Tbonexas
   ![Image of me](https://avatars0.githubusercontent.com/u/67118229?v=4)
   - Todd Murdoch
   - [GitHub Profile](https://github.com/Tbonexas)
   - <null>
-  

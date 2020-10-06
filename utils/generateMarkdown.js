@@ -8,19 +8,18 @@ function generateMarkdown(data, githubInfo) {
   - [Installation](#Installation)
   - [Licence](#Licence)
   - [Repository Link](#Repository)
-  - [GitHub Info](#GitHub) 
+  - [GitHub Information](#GitHub) 
   ## Installation
   ${data.installation}
   ## Licence
   ${data.licence}
   ## Repository
   - [Project Repo](${data.repo})
-  ## GitHub
+  ## GitHub - Tbonexas
   ![Image of me](${githubInfo.githubImage})
   - ${githubInfo.name}
   - [GitHub Profile](${githubInfo.profile})
-  - <${githubInfo.email}>
-  `;
+  - <${githubInfo.email}>`;
   }
   
   module.exports = generateMarkdown;
