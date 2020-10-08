@@ -1,6 +1,6 @@
 function generateMarkdown(data, githubInfo) {
     return `
-    # **${data.title}**
+  #**${data.title}**
   
   ## Description 
   
