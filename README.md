@@ -1,5 +1,5 @@
 
-   Good README Generator  
+  #**Good ReadMe Generator**
   
   ## Description 
   
@@ -40,5 +40,5 @@
   - [GitHub Profile](https://github.com/Tbonexas)
           <null>
   ## Contributors
-  Tbonexas        
+  Todd Wayment        
   
