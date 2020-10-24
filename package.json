@@ -1,0 +1,25 @@
+{
+  "name": "readmegen",
+  "version": "1.0.0",
+  "description": "Generate a README file using Node.js ",
+  "main": "index.js",
+  "scripts": {
+    "test": "Hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "readmegen"
+  },
+  "keywords": [
+    "README",
+    "Node",
+    "JavaScript"
+  ],
+  "author": "Todd M. Wayment",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "inquirer": "^7.3.3"
+  },
+  "devDependencies": {}
+}
